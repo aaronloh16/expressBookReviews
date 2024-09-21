@@ -1,1 +1,1 @@
-# coding-project-template
+# Backend for a book review application
